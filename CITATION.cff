@@ -3,5 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Shivakumar"
     given-names: "Abhishek"
+  - family-names: "Moulang Lewis"
+    given-names: "Solomon"
 title: "Tutorial-Plugin-Creation"
 url: "https://github.com/godofecht/Tutorial-Plugin-Creation"
